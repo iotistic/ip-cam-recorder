@@ -3,5 +3,5 @@ This script is used to record camera stream, currently it's fixed to camera 1 an
 To run the script, run the following commands:  
 ```
 chmod +x run.sh  
-./run.sh
+sudo ./run.sh
 ```
